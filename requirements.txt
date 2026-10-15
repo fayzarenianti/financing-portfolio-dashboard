@@ -1,5 +1,5 @@
-Path
-numpy 
-pandas 
-plotly.graph_objects 
 streamlit
+pandas
+numpy
+plotly
+openpyxl
